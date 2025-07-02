@@ -1,37 +1,32 @@
-# Demoblaze Cypress Tests
+# 🚀 Demoblaze Cypress Tests
 
-<h2 align="center">Hi 👋! Meu nome e Hugo criador desse projeto.</h2>
+<h2 align="center">Hi 👋! Meu nome é Hugo, criador desse projeto.</h2>
 
-###
-
-<div align="left">
+<div align="center">
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-%3E%3D14.x-43853C" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow" />
+  <img src="https://img.shields.io/badge/Cypress-latest-04D361" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI-blue" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugogome2/Hugogome2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hugogome2/Hugogome2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hugogome2/Hugogome2/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 📝 Descrição do Projeto
 
-![Node.js](https://img.shields.io/badge/Node.js-%3E%3D14.x-43853C) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Cypress](https://img.shields.io/badge/Cypress-latest-04D361) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI-blue)
+Este repositório contém uma suíte de testes end-to-end desenvolvida com **Cypress** para automação da interface web do site **Demoblaze**, um e-commerce de exemplo. O objetivo é demonstrar boas práticas de QA em testes de UI, incluindo:
 
-## Descrição do Projeto
+* ✅ Verificação de fluxos de compra (sucesso e falhas).
+* 🔄 Interações com elementos dinâmicos.
+* 📁 Uso de fixtures para dados de teste.
+* 🧩 Comandos customizados.
+* ⚙️ Integração contínua via GitHub Actions.
 
-Este repositório contém uma suíte de testes end-to-end desenvolvida com **Cypress** para automação da interface web do site Demoblaze, um e-commerce de exemplo. O objetivo é demonstrar boas práticas de QA em testes de UI, incluindo:
-
-* Verificação de fluxos de compra (sucesso e falhas).
-* Interações com elementos dinâmicos.
-* Uso de fixtures para dados de teste.
-* Comandos customizados.
-* Integração contínua via GitHub Actions.
-
-## Stack de Ferramentas e Linguagens
+## 🛠️ Stack de Ferramentas e Linguagens
 
 * **Node.js** (>=14.x): ambiente de execução JavaScript no servidor.
 * **npm**: gerenciador de pacotes.
@@ -39,16 +34,12 @@ Este repositório contém uma suíte de testes end-to-end desenvolvida com **Cyp
 * **Cypress**: framework de automação de testes E2E.
 * **GitHub Actions**: CI para execução automática de testes.
 
-## Badges
-
-As badges indicam as versões das ferramentas e o status do CI.
-
-## Pré-requisitos
+## 🚦 Pré-requisitos
 
 * Node.js (>=14.x)
 * npm (>=6.x)
 
-## Instalação
+## 💻 Instalação
 
 1. Clone este repositório:
 
@@ -56,26 +47,28 @@ As badges indicam as versões das ferramentas e o status do CI.
    git clone https://github.com/SEU_USUARIO/demoblaze-cypress-tests.git
    cd demoblaze-cypress-tests
    ```
+
 2. Instale as dependências:
 
    ```bash
    npm install
    ```
 
-## Executando os Testes
+## ▶️ Executando os Testes
 
-* Modo interativo:
+* **Modo interativo:**
 
   ```bash
   npx cypress open
   ```
-* Modo headless (CI):
+
+* **Modo headless (CI):**
 
   ```bash
   npx cypress run
   ```
 
-## Estrutura de Pastas
+## 📁 Estrutura de Pastas
 
 ```text
 demoblaze-cypress-tests/
@@ -92,10 +85,10 @@ demoblaze-cypress-tests/
 └── README.md
 ```
 
-## Contribuição
+## 🤝 Contribuição
 
 Sinta-se à vontade para abrir issues e pull requests. Qualquer feedback é bem-vindo!
 
-## Licença
+## 📄 Licença
 
 Este projeto está licenciado sob a licença [MIT](LICENSE).
