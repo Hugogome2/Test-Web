@@ -3,13 +3,23 @@
 <h2 align="center">Hi 👋! Meu nome é Hugo, criador desse projeto.</h2>
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugogome2/Hugogome2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hugogome2/Hugogome2/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hugogome2/Hugogome2/output/pacman-contribution-graph.svg">
+</picture>
+
 </div>
 
 ---
-  https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
-  https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white
-  https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white
-  https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cypress-69D3A7.svg?style=for-the-badge&logo=Cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+</div>
 
 ---
 
@@ -29,6 +39,7 @@ Este repositório contém uma suíte de testes end-to-end desenvolvida com **Cyp
 * **npm**: gerenciador de pacotes.
 * **JavaScript (ES6+)**: linguagem de programação utilizada nos testes.
 * **Cypress**: framework de automação de testes E2E.
+
 ## 🚦 Pré-requisitos
 
 * Node.js (>=14.x)
