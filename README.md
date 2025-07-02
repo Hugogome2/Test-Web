@@ -11,9 +11,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugogome2/Hugogome2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hugogome2/Hugogome2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hugogome2/Hugogome2/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugogome2/Hugogome2/Test-Web/edit/main/README.md/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hugogome2/Hugogome2/Test-Web/edit/main/README.md/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hugogome2/Test-Web/edit/main/README.md/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
