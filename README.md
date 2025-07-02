@@ -6,8 +6,8 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![Node.Js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Node.Js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=flat&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Cucumber-%25?style=flat&logo=cucumber&logoColor=black&logoSize=auto&color=%2323D96C)
 
 
