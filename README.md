@@ -1,4 +1,22 @@
 # Demoblaze Cypress Tests
+<h2 align="center">Hi 👋! Meu nome e Hugo e esse o meu projeto de Cypress</h2>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugogome2/Hugogome2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hugogome2/Hugogome2/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hugogome2/Hugogome2/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ![Node.js](https://img.shields.io/badge/Node.js-%3E%3D14.x-43853C) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Cypress](https://img.shields.io/badge/Cypress-latest-04D361) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI-blue)
 
