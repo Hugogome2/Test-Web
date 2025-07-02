@@ -8,10 +8,10 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-%3E%3D14.x-43853C" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow" />
-  <img src="https://img.shields.io/badge/Cypress-latest-04D361" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI-blue" />
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+  ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 </div>
 
 ---
@@ -32,8 +32,6 @@ Este repositório contém uma suíte de testes end-to-end desenvolvida com **Cyp
 * **npm**: gerenciador de pacotes.
 * **JavaScript (ES6+)**: linguagem de programação utilizada nos testes.
 * **Cypress**: framework de automação de testes E2E.
-* **GitHub Actions**: CI para execução automática de testes.
-
 ## 🚦 Pré-requisitos
 
 * Node.js (>=14.x)
