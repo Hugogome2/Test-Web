@@ -1,5 +1,6 @@
 # Demoblaze Cypress Tests
-<h2 align="center">Hi 👋! Meu nome e Hugo e esse o meu projeto de Cypress</h2>
+
+<h2 align="center">Hi 👋! Meu nome e Hugo criador desse projeto.</h2>
 
 ###
 
@@ -11,9 +12,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugogome2/Hugogome2/Test-Web/edit/main/README.md/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hugogome2/Hugogome2/Test-Web/edit/main/README.md/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hugogome2/Test-Web/edit/main/README.md/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugogome2/Hugogome2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hugogome2/Hugogome2/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hugogome2/Hugogome2/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
@@ -98,4 +99,3 @@ Sinta-se à vontade para abrir issues e pull requests. Qualquer feedback é bem-
 ## Licença
 
 Este projeto está licenciado sob a licença [MIT](LICENSE).
-e.
